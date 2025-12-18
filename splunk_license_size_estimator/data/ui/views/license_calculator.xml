@@ -1,4 +1,4 @@
-<form version="1.1" script="license_calculator.js" stylesheet="license_calculator.css">
+<form version="1.1" script="js/license_calculator.js" stylesheet="css/license_calculator.css">
   <label>Splunk License Size Estimator</label>
   <description>Calculate your estimated daily data volume based on your environment configuration</description>
   

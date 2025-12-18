@@ -4,7 +4,7 @@
     flex-wrap: wrap;
     gap: 30px;
     padding: 20px;
-    font-family: 'Splunk Platform Sans', Arial, sans-serif;
+    font-family: 'Splunk Platform Sans', 'Proxima Nova', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 /* Input section */

@@ -21,7 +21,7 @@ require([
         let breakdown = [];
         
         // Get environment size multiplier
-        const envSize = parseFloat($('#env_size').val());
+        const envSize = parseInt($('#env_size').val(), 10);
         const envMultiplier = envSize / BASE_ENV_SIZE;
         
         // Windows
