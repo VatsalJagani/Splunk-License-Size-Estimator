@@ -5,7 +5,7 @@ require([
     
     // Calculation formulas (at environment size = 5)
     const FORMULAS = {
-        windows: { servers: 10, gb: 1 },          // 10 servers = 1 GB
+        windows: { servers: 5, gb: 1 },          // 10 servers = 1 GB
         sysmon: { servers: 10, gb: 2 },           // 10 servers = 2 GB
         linux: { servers: 10, gb: 1 },            // 10 servers = 1 GB
         ad: { users: 100, gb: 1 },                // 100 users = 1 GB
